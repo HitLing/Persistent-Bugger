@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Подсчёт произведения и колличества итераций/1.0.0": {
+        "runtime": {
+          "Подсчёт произведения и колличества итераций.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Подсчёт произведения и колличества итераций/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
